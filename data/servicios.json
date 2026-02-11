@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jardineria basica",
+        "precioHora": 3000
+    },
+    {
+        "id": 2,
+        "nombre": "Mantenimiento general",
+        "precioHora": 4500
+    },
+    {
+        "id": 3,
+        "nombre": "limpieza profunda",
+        "precioHora": 5000
+    }
+
+]
